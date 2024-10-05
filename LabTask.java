@@ -120,7 +120,7 @@ public void PublishExamResult(Student student,String grade){
     System.out.println(student.Username+" "+student.StudentId+" "+grade); 
 }
 }
-public class UniversityCourseRegistration{
+public class LabTask{
     public static void main(String[] args){
         Student student1=new Student();
         student1.Login("Shyhoon","shyhoon@gmail.com","12345");
